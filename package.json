@@ -1,0 +1,17 @@
+{
+  "name": "fibbonaci",
+  "version": "1.0.0",
+  "main": "fibonacci.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jonah Odongo and Precious Nahumusa",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
